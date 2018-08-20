@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "FluentValidation.Issues": {
+    "FluentValidation.Issues.N872": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",
